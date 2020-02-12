@@ -1,2 +1,0 @@
-cd C:\Users\User\Desktop\贪吃蛇
-Java -jar Snake.jar
